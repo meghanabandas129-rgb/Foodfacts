@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>🥗 FoodFacts</h1>
+      <h1><h1>🥗 FoodFacts App 🚀</h1></h1>
       <SearchBar onSearch={handleSearch} />
 
       {loading && <p>Loading...</p>}
